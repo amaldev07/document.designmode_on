@@ -1,6 +1,6 @@
 # document.designmode_on
 
-Ti live edit on any webside
+To live edit on any webside
 go to console
 type
 document.designMode='on' -> enter
